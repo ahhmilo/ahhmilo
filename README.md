@@ -4,5 +4,5 @@
 <img src="https://img.shields.io/badge/-LUA-00007C?style=flat&logo=lua&logoColor=white"/>
 
 ### Achievements
-* Made my own tool to enable & set True-Stretch resolutions in VALORANT.
-* Made my own Discord Quest automation script.
+* Made my own tool to unlock and apply custom True-Stretch resolutions in VALORANT.
+* Made my own Discord Quest automation script & a Discord game presence spoofer.
