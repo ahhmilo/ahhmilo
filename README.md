@@ -2,3 +2,7 @@
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/-LUA-00007C?style=flat&logo=lua&logoColor=white"/>
+
+### Achievements
+* Made my own tool to enable & set True-Stretch resolutions in VALORANT.
+* Made my own Discord Quest automation script.
