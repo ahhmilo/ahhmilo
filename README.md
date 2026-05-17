@@ -8,5 +8,5 @@
 * [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 ### Achievements
-* Made my own VALORANT tool to unlock and apply custom True-Stretch resolutions.
+* Made my own VALORANT tool to unlock and apply custom True-Stretch resolutions
 * Made my own Discord tool to automate Quest completion and spoof game presence
