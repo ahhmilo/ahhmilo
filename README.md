@@ -10,3 +10,4 @@
 ### Achievements
 * Made my own VALORANT tool to apply custom True-Stretch resolutions automatically
 * Made my own Discord tool to automate Quest completion and spoof game presence
+* Made my own Resolutions tool to quickly apply custom resolutions with full customization
