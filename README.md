@@ -1,7 +1,5 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-### My Discord Profile
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/1167164306278846476)
 
 ### Main Coding Languages
 
@@ -19,6 +17,8 @@
 * Made my own Discord tool to automate Quest completion and spoof game presence
 * Made my own Resolutions tool to quickly apply custom resolutions with full customization
 * Made my own Windows utility to control resolution, color and screenshots in one app
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/1167164306278846476)
 
 ### GitHub Stats
 
