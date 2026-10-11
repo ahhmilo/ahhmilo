@@ -1,7 +1,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ### My Discord Profile
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1167164306278846476)
+[![Discord](https://img.shields.io/badge/Discord-haaiixd-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/1167164306278846476)
 
 ### Main Coding Languages
 
