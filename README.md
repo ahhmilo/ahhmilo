@@ -18,7 +18,7 @@
 * Made my own Resolutions tool to quickly apply custom resolutions with full customization
 * Made my own Windows utility to control resolution, color and screenshots in one app
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1014968461920833616)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1167164306278846476)
 
 ### GitHub Stats
 
